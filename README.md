@@ -13,6 +13,8 @@ Data Preprocessing was done by visualizations, cleaning, imputting missing value
 
 Categorical encoding of type Onehot and Ordinal was also used. 
 
-Different pipelines were created to handle categorical and numerical features, and final, the grid search cross validation iterator was used to ensure our model predicts without overfitting. 
+Different pipelines were created to handle categorical and numerical features, and finally, the grid search cross validation iterator was used to ensure our model predicts without overfitting. 
 
-The results from these classifier are as given in the table below.
+The results from these classifiers are as given in the table below.
+
+![result](https://user-images.githubusercontent.com/103940202/197235700-be65af2f-33aa-4d8b-b7a9-1dea80d93721.PNG)
