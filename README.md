@@ -1,5 +1,5 @@
 # Housing-Classification
-This project utilizes well established machine learning classifiers to determine the classification of houses based on their features.
+This project utilizes well established machine learning classifiers to determine the classification of houses (Expensive or not Expensive) based on their features.
 
 The Classifiers utilized for this project are;
 1. Decision Tree Classifier.
