@@ -17,4 +17,4 @@ Different pipelines were created to handle categorical and numerical features, a
 
 The results from these classifiers are as given in the table below.
 
-![result](https://user-images.githubusercontent.com/103940202/197235700-be65af2f-33aa-4d8b-b7a9-1dea80d93721.PNG)
+![image](https://user-images.githubusercontent.com/103940202/201202581-c7975a3b-ae7d-46ca-b67d-07e0f0293301.png)
